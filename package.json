@@ -1,0 +1,8 @@
+{
+  "name": "VisTransform",
+  "description": "A visualization transformation component for BitQuery VA-App: overview. Prepares and filters data for the visualization and configures visualization settings.",
+  "author": "Jim Vallandingham, Svetlana Bykovskaya <bykovskaya.svetlana@gmail.com>, Lukas Borke <lukas@borke.net>",
+  "license": "Apache License 2.0",
+  "version": "0.6.0",
+  "main": "VisTransform.js"
+}
